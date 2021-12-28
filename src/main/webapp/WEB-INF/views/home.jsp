@@ -18,6 +18,10 @@
 </head>
 <body>
 
+<div>
+	<img src="/resources/image/1212.jpg" alt="1212이미지"> 이미지
+</div>
+
 <h1>Home.jsp -로그인 페이지--</h1>
 	<form action="access" method="post">
 		<table border="1">

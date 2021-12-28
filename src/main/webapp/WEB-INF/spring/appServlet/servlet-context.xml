@@ -44,5 +44,7 @@
     </beans:bean>-->
     <!-- @Transactional어노테이션 사용위해, 반드시 servlet-context.xml에 설정함 -->
 <!--    <tx:annotation-driven transaction-manager="txManager"/>-->
+    
+    <resources mapping="resoureces/**" location="resources/"/>
 
 </beans:beans>
